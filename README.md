@@ -76,7 +76,7 @@ To get a local copy up and running follow these simple steps:
 ###### Instructions
 1. Clone the repo
    ```sh
-   git clone https://github.com/Observant-Ostriches/fec-projectCatwalk.git
+   git clone https://github.com/lucky89nana/Verde.git
    ```
 2. Acquire a github personal access token to acquire access to the API. Insert token into example.config.js and rename file to config.js
 3. Install NPM packages
