@@ -78,7 +78,10 @@ To get a local copy up and running follow these simple steps:
    ```sh
    git clone https://github.com/lucky89nana/Verde.git
    ```
-2. Acquire a github personal access token to acquire access to the API. Insert token into example.config.js and rename file to config.js
+2. Acquire a github personal access token to acquire access to the API. Insert token into example.config.js and rename file to 
+   ```sh
+   config.js
+   ```
 3. Install NPM packages
    ```sh
    npm install
@@ -91,4 +94,7 @@ To get a local copy up and running follow these simple steps:
    ```sh
    npm start
     ```
-5. Navigate to localhost:3000
+5. Navigate to 
+   ```sh
+   localhost:3000
+   ```
