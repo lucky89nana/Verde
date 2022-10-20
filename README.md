@@ -11,7 +11,7 @@
 
 This project was designed to grow our understanding of building, maintaining, and optimizing a full react application. While the project was completed as a group, each individual was fully responsible for their own component. This allowed each of us to utilize and strengthen our understanding of front end development.
 
-## Deomo
+## Demo
 
 https://user-images.githubusercontent.com/98575125/177028027-c4da0f42-309d-4ff2-af6a-98684eaf10eb.mp4
 
